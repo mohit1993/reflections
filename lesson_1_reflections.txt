@@ -1,0 +1,8 @@
+Sarah's Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you spot the bug?
+
+It was helpful because it makes looking at mistake easier and you can spot the
+error fast. 
+It also helps to compare and look for mistakes in code which otherwise aren't
+error but effective the working of code somehow.
